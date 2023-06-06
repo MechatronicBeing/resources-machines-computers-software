@@ -1,0 +1,6 @@
+- **Title** : Tango Icon Theme
+- **Author** : Tango project  
+- **Licence** : Public domain
+- **Type** : images
+- **Website** : http://tango.freedesktop.org/Tango_Icon_Library
+- **Source** : http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
