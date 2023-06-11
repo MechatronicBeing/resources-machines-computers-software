@@ -1,0 +1,10 @@
+- **Title** : Back to the Future with RSS!
+- **Description** : RSS explained
+- **Author** : Ncase
+- **Website** : ncase.me
+- **License** : CC0 public domain
+- **Source** : https://blog.ncase.me/back-to-the-future-with-rss/
+- **Last update** : Jun 22, 2021
+- **Modifications** : 
+  - created the md from html text
+  - resize the images to 800px width
